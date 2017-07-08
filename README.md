@@ -1,6 +1,6 @@
 # finchd's Screeps Scripts
 
-My scripts for playing [screeps](https:\\screeps.com) 
+My scripts for playing [screeps](https://screeps.com) 
 
 ## Dependencies
 
